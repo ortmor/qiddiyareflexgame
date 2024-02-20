@@ -1,0 +1,9 @@
+{
+  "short_name": "dmgovsummit",
+  "name": "dmgovsummit",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#25293a",
+  "background_color": "#25293a"
+  
+}
